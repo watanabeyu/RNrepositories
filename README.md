@@ -1,6 +1,9 @@
 # RNrepositories
 Made by React Native
 
+## Awesome expo
+[expo/awesome-expo](https://github.com/expo/awesome-expo)
+
 ## App
 [BoostIO/boostnote-mobile](https://github.com/BoostIO/boostnote-mobile)
 
@@ -29,3 +32,5 @@ Made by React Native
   * [n4kz/react-native-indicators](https://github.com/n4kz/react-native-indicators)
 * slide animation on android
   * [Traviskn/react-navigation-slide-from-right-transition](https://github.com/Traviskn/react-navigation-slide-from-right-transition)
+* scrollanle tab view
+  * [skv-headless/react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view)
