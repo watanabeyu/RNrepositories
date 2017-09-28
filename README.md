@@ -34,3 +34,5 @@ Made by React Native
   * [Traviskn/react-navigation-slide-from-right-transition](https://github.com/Traviskn/react-navigation-slide-from-right-transition)
 * scrollanle tab view
   * [skv-headless/react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view)
+* modal date picker
+  * [mmazzarolo/react-native-modal-datetime-picker](https://github.com/mmazzarolo/react-native-modal-datetime-picker)
