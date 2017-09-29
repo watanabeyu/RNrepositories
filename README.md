@@ -36,6 +36,6 @@ Made by React Native
   * [skv-headless/react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view)
 * modal date picker
   * [mmazzarolo/react-native-modal-datetime-picker](https://github.com/mmazzarolo/react-native-modal-datetime-picker)
-* ~~multil column picker
-  * [beefe/react-native-picker](https://github.com/beefe/react-native-picker)~~
+* ~~multil column picker~~
+  * ~~[beefe/react-native-picker](https://github.com/beefe/react-native-picker)~~
   * this is not component.
