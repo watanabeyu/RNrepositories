@@ -39,5 +39,5 @@ Made by React Native
 * ~~multil column picker~~
   * ~~[beefe/react-native-picker](https://github.com/beefe/react-native-picker)~~
   * this is not component.
-* flip animation on component
-  * [moschan/react-native-flip-card](https://github.com/moschan/react-native-flip-card)
+* ~~flip animation on component~~
+  * ~~[moschan/react-native-flip-card](https://github.com/moschan/react-native-flip-card)~~
