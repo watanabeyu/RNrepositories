@@ -5,7 +5,8 @@ Made by React Native
 [expo/awesome-expo](https://github.com/expo/awesome-expo)
 
 ## App
-[BoostIO/boostnote-mobile](https://github.com/BoostIO/boostnote-mobile)
+* [BoostIO/boostnote-mobile](https://github.com/BoostIO/boostnote-mobile)
+* [catalinmiron/react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app)
 
 ## UI Libraries
 * [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
