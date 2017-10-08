@@ -7,6 +7,9 @@ Made by React Native
 ## App
 [BoostIO/boostnote-mobile](https://github.com/BoostIO/boostnote-mobile)
 
+## UI Libraries
+* [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
+
 ## Libraries
 * animation
   * [airbnb/lottie-react-native](https://github.com/airbnb/lottie-react-native)
