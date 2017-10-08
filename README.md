@@ -10,6 +10,7 @@ Made by React Native
 
 ## UI Libraries
 * [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
+* [react-native-material-design/react-native-material-design](https://github.com/react-native-material-design/react-native-material-design)
 
 ## Libraries
 * animation
