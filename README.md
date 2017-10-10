@@ -2,21 +2,21 @@
 React Native Components.
 
 ## Links
-#### [expo/awesome-expo](https://github.com/expo/awesome-expo)
+* [expo/awesome-expo](https://github.com/expo/awesome-expo)
 
 ## React Native App
-#### [BoostIO/boostnote-mobile](https://github.com/BoostIO/boostnote-mobile)
-#### [catalinmiron/react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app)
+* [BoostIO/boostnote-mobile](https://github.com/BoostIO/boostnote-mobile)
+* [catalinmiron/react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app)
 
 ## UI Libraries
-#### [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
-#### [react-native-material-design/react-native-material-design](https://github.com/react-native-material-design/react-native-material-design)
+* [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
+* [react-native-material-design/react-native-material-design](https://github.com/react-native-material-design/react-native-material-design)
 
 ## Component Libraries
 
 ### Animation Component
-#### [airbnb/lottie-react-native](https://github.com/airbnb/lottie-react-native)
-* Animation library by AirBnb
+* [airbnb/lottie-react-native](https://github.com/airbnb/lottie-react-native)
+Animation library by AirBnb
 
 ### Swipe Component
 * [leecade/react-native-swiper](https://github.com/leecade/react-native-swiper)
