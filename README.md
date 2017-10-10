@@ -18,6 +18,9 @@ React Native Components.
 * [airbnb/lottie-react-native](https://github.com/airbnb/lottie-react-native)  
 Animation library by AirBnb
 
+### Effect Component
+* [react-native-community/react-native-blur](https://github.com/react-native-community/react-native-blur)
+
 ### Swipe Component
 * [leecade/react-native-swiper](https://github.com/leecade/react-native-swiper)  
 * [FuYaoDe/react-native-app-intro](https://github.com/FuYaoDe/react-native-app-intro)
