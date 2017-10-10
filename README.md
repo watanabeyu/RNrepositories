@@ -15,11 +15,11 @@ React Native Components.
 ## Component Libraries
 
 ### Animation Component
-* [airbnb/lottie-react-native](https://github.com/airbnb/lottie-react-native)
+* [airbnb/lottie-react-native](https://github.com/airbnb/lottie-react-native)  
 Animation library by AirBnb
 
 ### Swipe Component
-* [leecade/react-native-swiper](https://github.com/leecade/react-native-swiper)
+* [leecade/react-native-swiper](https://github.com/leecade/react-native-swiper)  
 * [FuYaoDe/react-native-app-intro](https://github.com/FuYaoDe/react-native-app-intro)
 * [skv-headless/react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view)
 
