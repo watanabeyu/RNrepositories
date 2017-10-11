@@ -38,6 +38,7 @@ Animation library by AirBnb
 * [jayesbe/react-native-cacheable-image](https://github.com/jayesbe/react-native-cacheable-image)
 * [entria/react-native-fontawesome](https://github.com/entria/react-native-fontawesome)
 * [n4kz/react-native-indicators](https://github.com/n4kz/react-native-indicators)
+* [huiseoul/react-native-fit-image](https://github.com/huiseoul/react-native-fit-image)
 
 ### Form Component
 * [Andr3wHur5t/react-native-keyboard-spacer](https://github.com/Andr3wHur5t/react-native-keyboard-spacer)Android Transition
