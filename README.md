@@ -51,3 +51,6 @@ Animation library by AirBnb
 
 ### Android Transition
 * [Traviskn/react-navigation-slide-from-right-transition](https://github.com/Traviskn/react-navigation-slide-from-right-transition)
+
+## Others
+* [facebook/metro-bundler](https://github.com/facebook/metro-bundler)
