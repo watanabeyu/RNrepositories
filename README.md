@@ -54,3 +54,5 @@ Animation library by AirBnb
 
 ## Others
 * [facebook/metro-bundler](https://github.com/facebook/metro-bundler)
+* [oliverbenns/expo-deploy](https://github.com/oliverbenns/expo-deploy)  
+Switch app.json when deploy
