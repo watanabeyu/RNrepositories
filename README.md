@@ -14,6 +14,9 @@ React Native Components.
 
 ## Component Libraries
 
+### Advertise Component
+* [sbugert/react-native-admob](https://github.com/sbugert/react-native-admob)
+
 ### Animation Component
 * [airbnb/lottie-react-native](https://github.com/airbnb/lottie-react-native)  
 Animation library by AirBnb
