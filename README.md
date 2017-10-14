@@ -15,14 +15,19 @@ React Native Components.
 ## Component Libraries
 
 ### Advertise Component
-* [sbugert/react-native-admob](https://github.com/sbugert/react-native-admob)
+* [sbugert/react-native-admob](https://github.com/sbugert/react-native-admob)  
+  * **if you use `expo.io`, support Admob Component**  
+    https://docs.expo.io/versions/latest/sdk/admob.html
 
 ### Animation Component
 * [airbnb/lottie-react-native](https://github.com/airbnb/lottie-react-native)  
-Animation library by AirBnb
+  * **if you use `expo.io`, support Lottie Component**  
+    https://docs.expo.io/versions/latest/sdk/lottie.html
 
 ### Effect Component
 * [react-native-community/react-native-blur](https://github.com/react-native-community/react-native-blur)
+  * **if you use `expo.io`, support Blur Component**  
+    https://docs.expo.io/versions/latest/sdk/blur-view.html
 
 ### Swipe Component
 * [leecade/react-native-swiper](https://github.com/leecade/react-native-swiper)  
