@@ -7,6 +7,7 @@ React Native Components.
 ## React Native App
 * [BoostIO/boostnote-mobile](https://github.com/BoostIO/boostnote-mobile)
 * [catalinmiron/react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app)
+* [aschenkel/Peak](https://github.com/aschenkel/Peak)
 
 ## UI Libraries
 * [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
