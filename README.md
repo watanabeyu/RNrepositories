@@ -64,6 +64,6 @@ React Native Components.
 * [facebook/metro-bundler](https://github.com/facebook/metro-bundler)
 * [oliverbenns/expo-deploy](https://github.com/oliverbenns/expo-deploy)  
   Switch app.json when deploy by `deploy.sh`
-* [Preposterous/exp-deploy-cli](https://github.com/Preposterous/exp-deploy-cli)
+* [Preposterous/exp-deploy-cli](https://github.com/Preposterous/exp-deploy-cli)  
   Switch app.json when deploy `exp-deploy` command
 
