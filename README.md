@@ -3,6 +3,7 @@ React Native Components.
 
 ## Links
 * [expo/awesome-expo](https://github.com/expo/awesome-expo)
+* [expo/expo-twitter-login-example](https://github.com/expo/expo-twitter-login-example)
 
 ## React Native App
 * [BoostIO/boostnote-mobile](https://github.com/BoostIO/boostnote-mobile)
