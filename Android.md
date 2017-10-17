@@ -11,9 +11,31 @@ button:{
 }
 ```
 **This is not working on Android.**  
-So you delete `borderRadius` or `borderBottomWidth`.
+Should you delete `borderRadius` or `borderBottomWidth`.
 
 ## Delete TextInput underline
 ```jsx
 <TextInput underlineColorAndroid="transparent" />
 ```
+
+## Fetch request_headers becomes lowercase
+```js
+// on Android
+Fetch("https://xxxxxxxx",{
+  method: "get",
+  headers: {
+    "Accept": "application/json, */*",
+    "Authorization": "Bearer tokenishere"
+  }
+}).then(response => console.log(response))
+```
+```json
+// on Server
+header:{
+  "accept": "application/json, */*",
+  "authorization": "Bearer tokenishere"
+}
+```
+Android fetch is send add header to lowercase.  
+Should you correspond lowercase header on server.  
+**HTTP headers are case insensitive.**
