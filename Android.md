@@ -1,6 +1,6 @@
-# doesn't work on Android
+# React Native Android Hack
 
-## Border different width with borderRadius
+## Doesn't work border different width with borderRadius
 ```css
 button:{
   backgroundColor   : "#fcc",
@@ -10,5 +10,10 @@ button:{
   borderBottomWidth : 4
 }
 ```
-This is not working on Android.  
+**This is not working on Android.**  
 So you delete `borderRadius` or `borderBottomWidth`.
+
+## Delete TextInput underline
+```jsx
+<TextInput underlineColorAndroid="transparent" />
+```
