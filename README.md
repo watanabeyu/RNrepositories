@@ -52,7 +52,8 @@ React Native Components.
 * [huiseoul/react-native-fit-image](https://github.com/huiseoul/react-native-fit-image)
 
 ### Form Component
-* [Andr3wHur5t/react-native-keyboard-spacer](https://github.com/Andr3wHur5t/react-native-keyboard-spacer)Android Transition
+* [Andr3wHur5t/react-native-keyboard-spacer](https://github.com/Andr3wHur5t/react-native-keyboard-spacer)  
+  Android Transition
 
 ## Other Libraries
 
