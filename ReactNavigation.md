@@ -2,7 +2,7 @@
 
 ## Dynamically change navigationOptions
 ```jsx
-export default class CheckScreen extends React.Component {
+export default class Screen extends React.Component {
   static navigationOptions = ({ navigation }) => {
     const { state, setParams } = navigation;
     const { params } = navigation.state;
