@@ -4,13 +4,12 @@
 ```jsx
 export default class Screen extends React.Component {
   static navigationOptions = ({ navigation }) => {
-    const { state, setParams } = navigation;
-    const { params } = navigation.state;
+    const { params = {} } = navigation.state;
 
     return {
       headerTitle: (
         <View>
-          <TouchableOpacity onPress={(params && params.onHeaderTitleClick) ? params.onHeaderTitleClick : null}>
+          <TouchableOpacity onPress={params.onHeaderTitleClick}>
             <Text>{(params && params.title) ? params.title : "initial"}</Text>
           </TouchableOpacity>
         </View>
