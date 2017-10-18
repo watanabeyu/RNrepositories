@@ -35,7 +35,7 @@ React Native Components.
 ### Swipe Component
 * [leecade/react-native-swiper](https://github.com/leecade/react-native-swiper)  
 * [FuYaoDe/react-native-app-intro](https://github.com/FuYaoDe/react-native-app-intro)
-* [skv-headless/react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view)
+* [react-native-community/react-native-tab-view](https://github.com/react-native-community/react-native-tab-view)
 
 ### Modal Component
 * [peacechen/react-native-modal-selector](https://github.com/peacechen/react-native-modal-selector)
