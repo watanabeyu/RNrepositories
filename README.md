@@ -71,5 +71,5 @@ React Native Components.
   Switch app.json when deploy by `deploy.sh`
 * [Preposterous/exp-deploy-cli](https://github.com/Preposterous/exp-deploy-cli)  
   Switch app.json when deploy `exp-deploy` command
-* [marcshilling/react-native-idle-timer](https://github.com/marcshilling/react-native-idle-timer)
+* [marcshilling/react-native-idle-timer](https://github.com/marcshilling/react-native-idle-timer)  
   Switch screen idle timer
