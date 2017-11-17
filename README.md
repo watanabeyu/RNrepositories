@@ -72,4 +72,6 @@ React Native Components.
 * [Preposterous/exp-deploy-cli](https://github.com/Preposterous/exp-deploy-cli)  
   Switch app.json when deploy `exp-deploy` command
 * [marcshilling/react-native-idle-timer](https://github.com/marcshilling/react-native-idle-timer)  
-  Switch screen idle timer
+  Switch screen idle timer  
+  * **if you use `expo.io`, support KeepAwake Component**  
+    https://docs.expo.io/versions/latest/sdk/keep-awake.html
