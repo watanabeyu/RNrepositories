@@ -61,6 +61,8 @@ React Native Components.
 ### Analytics
 * [davodesign84/react-native-mixpanel](https://github.com/davodesign84/react-native-mixpanel)
 * [react-native-community/react-native-google-analytics](https://github.com/react-native-community/react-native-google-analytics)
+  * **if you use `expo.io`, use this repository**  
+    [ryanvanderpol/expo-analytics](https://github.com/ryanvanderpol/expo-analytics)
 
 ### Android Transition
 * [Traviskn/react-navigation-slide-from-right-transition](https://github.com/Traviskn/react-navigation-slide-from-right-transition)
