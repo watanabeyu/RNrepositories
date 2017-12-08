@@ -14,6 +14,7 @@ React Native Components.
 ## UI Libraries
 * [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
 * [react-native-material-design/react-native-material-design](https://github.com/react-native-material-design/react-native-material-design)
+* [callstack/react-native-paper](https://github.com/callstack/react-native-paper)
 * [avocode/nachos-ui](https://github.com/avocode/nachos-ui)
 
 ## Component Libraries
