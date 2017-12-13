@@ -28,3 +28,14 @@ export default class Screen extends React.Component {
   }
 }
 ```
+
+## Reset to root on Nesting Navigators
+```jsx
+this.props.navigation.dispatch(NavigationActions.reset({
+  index: 0,
+  key: null,
+  actions: [
+    NavigationActions.navigate({ routeName:"route" })
+  ],
+}));
+```
