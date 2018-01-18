@@ -53,6 +53,8 @@ React Native Components.
 * [n4kz/react-native-indicators](https://github.com/n4kz/react-native-indicators)
 * [huiseoul/react-native-fit-image](https://github.com/huiseoul/react-native-fit-image)
 * [obipawan/react-native-hyperlink](https://github.com/obipawan/react-native-hyperlink)
+* [anvilabs/react-native-image-carousel](https://github.com/anvilabs/react-native-image-carousel)
+  * Lightbox carousel
 
 ### Form Component
 * [Andr3wHur5t/react-native-keyboard-spacer](https://github.com/Andr3wHur5t/react-native-keyboard-spacer)  
