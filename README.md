@@ -43,6 +43,7 @@ React Native Components.
 * [peacechen/react-native-modal-selector](https://github.com/peacechen/react-native-modal-selector)
 * [react-native-community/react-native-modal](https://github.com/react-native-community/react-native-modal)
 * [expo/react-native-action-sheet](https://github.com/expo/react-native-action-sheet)
+* [oblador/react-native-lightbox](https://github.com/oblador/react-native-lightbox)
 
 ### TimePicker Component
 * [mmazzarolo/react-native-modal-datetime-picker](https://github.com/mmazzarolo/react-native-modal-datetime-picker)
