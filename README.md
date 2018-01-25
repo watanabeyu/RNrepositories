@@ -82,6 +82,7 @@ React Native Components.
   Switch screen idle timer  
   * **if you use `expo.io`, support KeepAwake Component**  
     https://docs.expo.io/versions/latest/sdk/keep-awake.html
-    
 * [kadiks/react-native-itunes](https://github.com/kadiks/react-native-itunes)  
   Play device's itunes music
+* [oblador/react-native-store-review](https://github.com/oblador/react-native-store-review)
+  SKStoreReviewController
