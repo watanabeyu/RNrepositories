@@ -56,6 +56,7 @@ React Native Components.
 * [obipawan/react-native-hyperlink](https://github.com/obipawan/react-native-hyperlink)
 * [anvilabs/react-native-image-carousel](https://github.com/anvilabs/react-native-image-carousel)
   * Lightbox carousel
+* [sonaye/react-native-micro-animated-button](https://github.com/sonaye/react-native-micro-animated-button)
 
 ### Form Component
 * [Andr3wHur5t/react-native-keyboard-spacer](https://github.com/Andr3wHur5t/react-native-keyboard-spacer)  
